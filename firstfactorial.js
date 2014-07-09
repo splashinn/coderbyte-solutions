@@ -6,3 +6,5 @@ function FirstFactorial(num) {
     return 1;       
   } 
   return num * FirstFactorial(num-1);   
+}
+  FirstFactorial();
