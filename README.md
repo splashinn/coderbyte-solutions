@@ -3,4 +3,6 @@ coderbyte-solutions
 
 solutions to coderbyte problems
 
-- Still working on solutions
+- All beginner problems solved 
+- 1/2 of medium problems solved
+- 2 hard problems solved
