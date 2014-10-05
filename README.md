@@ -1,8 +1,4 @@
-coderbyte-solutions
-===================
-
-solutions to coderbyte problems
-
-- All beginner problems solved 
-- 1/2 of medium problems solved
-- 2 hard problems solved
+# coderbyte
+<br>JavaScript solutions to Coderbyte problems.
+## Contributing
+<br>Feel free to fork and add your own solutions, or golf mine a bit more.
