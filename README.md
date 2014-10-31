@@ -6,4 +6,4 @@ Almost all solutions are posted here for the JavaScript problems.
 
 ## Contributing
 
-Feel free to fork and add your own solutions, or golf mine a bit more.
+Feel free to fork and add your own solutions!
