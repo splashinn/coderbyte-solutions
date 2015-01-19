@@ -1,4 +1,4 @@
-# coderbyte
+## coderbyte
 
 JavaScript solutions to Coderbyte problems.
 
