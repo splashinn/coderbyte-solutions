@@ -1,5 +1,4 @@
 // kph to mph
-// splashinn
 
 function convert(speed) {
   return speed/1.609344;
